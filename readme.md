@@ -20,11 +20,15 @@
 <br>
 
 ### 👣 My Journey
-- 2024.08~2024.10 Naver Cloud Cloud Tech Frontier PT 
-- 2024.08~2024.12 2024 Naver AI RUSH
-- 2024.03~2024.12 EFUB 4th Backend Lead Developer
-- 2024.01~2024.02 LG AImers 4th
-- 2022.03~ing EWHA womans univ. Computer Science Engineering
+2024.08-2024.10 **Naver Cloud Cloud Tech Frontier PT** 
+<br>
+2024.08-2024.12 **2024 Naver AI RUSH**
+<br>
+2024.03-2024.12 **EFUB 4th Backend Lead Developer**
+<br>
+2024.01-2024.02 **LG AImers 4th**
+<br>
+2022.03-ing **EWHA womans univ. Computer Science Engineering**
 
 <br>
 <br>
