@@ -5,13 +5,13 @@
 
 <br> 
 
-**Languages**
+### Languages
 <img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="Python" title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|<img alt="javascript" title="javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="c" title="c" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|--|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jud1thdev&layout=compact)
 
-**Interested in**
+### Interested in
 
 <img title="SpringBoot" alt="SpringBoot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">|<img title="google" alt="google" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/google/google.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
 |--|--|--|--|--|
