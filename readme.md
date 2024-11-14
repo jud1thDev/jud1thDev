@@ -3,6 +3,8 @@
 ### 👋 Visitor count
 <img src="https://profile-counter.glitch.me/jud1thdev/count.svg" />
 
+<br> 
+
 **Languages**
 <img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="Python" title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|<img alt="javascript" title="javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="c" title="c" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|--|
@@ -14,6 +16,8 @@
 <img title="SpringBoot" alt="SpringBoot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">|<img title="google" alt="google" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/google/google.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
 |--|--|--|--|--|
 <img title="sql" alt="sql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="tensorflow" alt="tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="flutter" alt="flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
+
+<br>
 
 ### 👣 My Journey
 - 2024.08~2024.10 Naver Cloud Cloud Tech Frontier PT 
