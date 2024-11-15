@@ -22,7 +22,7 @@
 ### 👣 My Journey
 2024.08-2024.10 **Naver Cloud Cloud Tech Frontier PT** 
 <br>
-2024.08-2024.12 **2024 Naver AI RUSH**
+2024.08-2024.09 **2024 Naver AI RUSH**
 <br>
 2024.03-2024.12 **EFUB 4th Backend Lead Developer**
 <br>
