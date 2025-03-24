@@ -1,6 +1,6 @@
 <div align="center">
   
-### 👋 Visitor count
+### 👋 Visitor Count
 <img src="https://profile-counter.glitch.me/jud1thdev/count.svg" />
 
 <br> 
