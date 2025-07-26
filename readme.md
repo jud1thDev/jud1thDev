@@ -7,14 +7,13 @@
   <sub>raised by the Internet...</sub>
 </p>
 
-
-<img width="55%" align="right"  src="https://media.giphy.com/media/1n7cG3eseQnPdZMvat/giphy.gif" />
+<img width="50%" align="right" src="https://media.giphy.com/media/1n7cG3eseQnPdZMvat/giphy.gif" />
 
 <img src="https://komarev.com/ghpvc/?username=jud1thdev&label=visitors&color=81c784&style=flat-square" alt="visitors"/>
 
-> Hi there, I'm Yujung <br>
-> Developer with a problem-solving mindset <br>
-> and a passion for system optimization
+> Hi there, I'm Yujung  
+> Developer with a problem-solving mindset  
+> and a passion for system optimization  
 
 ### Tech
 
@@ -40,7 +39,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<!-- DevOps -->
+<!-- Infra  -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
