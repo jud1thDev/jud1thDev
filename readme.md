@@ -45,3 +45,14 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+
+---
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jud1thDev&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/jud1thDev?pet-id=738735464235453467"
+    width="600"
+    height="120"
+  />
+</a>
+  
