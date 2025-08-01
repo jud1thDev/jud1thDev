@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jud1thdev&theme=default&hide_border=true" height="150"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=jud1thdev&theme=tokyonight-duo&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
 </p>
 
 <p align="right">
@@ -9,7 +9,7 @@
 
 <img width="50%" align="right" src="https://media.giphy.com/media/1n7cG3eseQnPdZMvat/giphy.gif" />
 
-<img src="https://komarev.com/ghpvc/?username=jud1thdev&label=visitors&color=81c784&style=flat-square" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=jud1thdev&label=visitors&color=31b69f&style=flat-square" alt="visitors"/>
 
 > Hi there, I'm Yujung  
 > Developer with a problem-solving mindset  
