@@ -7,8 +7,6 @@
   <sub>raised by the Internet...</sub>
 </p>
 
-<img width="50%" align="right" src="https://media.giphy.com/media/1n7cG3eseQnPdZMvat/giphy.gif" />
-
 <img src="https://komarev.com/ghpvc/?username=jud1thdev&label=visitors&color=31b69f&style=flat-square" alt="visitors"/>
 
 > Hi there, I'm Yujung  
