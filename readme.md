@@ -12,9 +12,3 @@
 > Hi there, I'm Yujung  
 > Developer with a problem-solving mindset  
 > and a passion for system optimization  
-
-### Currently Learning
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jud1thDev&repo=SLSA-study-practice&show_owner=true)](https://github.com/jud1thDev/SLSA-study-practice)
-
-### Projects in Progress
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Curihous&repo=QBIT-BE&show_owner=true)](https://github.com/Curihous/QBIT-BE)
